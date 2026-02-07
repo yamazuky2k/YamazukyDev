@@ -4,7 +4,7 @@
 # **@Yamazuky2k #887 • Js**
 **Tudo nosso nada deles🤤**
 
-<img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
+<img src="https://files.catbox.moe/cbz8oc.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
 
 
 **Yamazuky2k Developer**
@@ -19,7 +19,7 @@
 </p>
 
 
-<img src="https://files.catbox.moe/3gjpph.mp4" width="720" style="border-radius:10px; border:2px solid #8A2BE2;"/>
+<img src="https://files.catbox.moe/rg3thp.gif" width="720" style="border-radius:10px; border:2px solid #8A2BE2;"/>
 
 
 <p>
@@ -33,7 +33,7 @@
 <div align="center">
 
   <a href="https://github.com/yamazuky2k/YamazukyDev">
-    <img src="https://img.shields.io/badge/📁%20Repositório%20Dz7Api-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/📁%20Repositório%20YamazukyDev-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <br><br>
 
