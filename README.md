@@ -24,7 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/THE•REPOSITORY-000000?style=for-the-badge&logoColor=white&labelColor=8A2BE2">
-  <img src="https://img.shields.io/badge/Autor-@Pdr%202k-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
+  <img src="https://img.shields.io/badge/Autor-@Yamazuky2k%20#887-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
 </p>
 
 ---
